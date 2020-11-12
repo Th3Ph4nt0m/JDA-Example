@@ -6,7 +6,7 @@
  * Copyright (c) 2020 Henrik Steffens
  */
 
-package de.th3ph4nt0m.jdaexample;
+package de.th3ph4nt0m.jdaexample.single;
 
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
