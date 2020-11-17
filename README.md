@@ -37,7 +37,7 @@ You should always just use the amount of Shards that you need as every Shard cre
 ### Single Instance
 
 *FOLLOWING*
-<br>
+
 We have divided the two possibilities into two packages.
 <br>`de.th3ph4nt0m.jdaexample.single` wraps all classes of a single instance bot
 <br>`de.th3ph4nt0m.jdaexample.sharded` wraps all classes of a sharded bot
